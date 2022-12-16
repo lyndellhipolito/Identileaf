@@ -1,3 +1,3 @@
 # Identileaf: Poisonous-Plant-Identifier
-An Application that identifies Philippine poisonous houseplants.
+A Mobile Application that Identifies Philippine Poisonous Houseplants.
 ### Thesis Project created by computer science students of Holy Angel University.
